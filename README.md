@@ -7,4 +7,4 @@
 ## How do I use this?
 - Download the script to the same folder where you save runmock .json files (I use /Users/conal.king/runmock)
 - Change the download parameter on line 44 to where you want the files to output
-- cd to the folder and run the script from terminal with ./runmockdl.sh
+- cd to the /runmock folder and run the script from terminal with ./runmockdl.sh
