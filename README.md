@@ -1,4 +1,4 @@
-# Runmock Download Script
+# Runmock Downloader Script
 
 ## Description
 - This script will extract the Region and Job ID from the most recent .json file in the folder, pass them to the salame shell download command, and then run it
